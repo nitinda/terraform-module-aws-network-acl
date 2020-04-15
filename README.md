@@ -14,7 +14,7 @@ _Terraform module Provides an_ **_Network ACL_** _resource in_ **_AWS_** _cloud 
 
 ## _General_
 
-_This module can be used to deploy a_ **_VPC Routing Table_** _on AWS Cloud Provider......_
+_This module can be used to deploy a_ **_Network ACL_** _on AWS Cloud Provider......_
 
 
 ---
